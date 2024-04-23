@@ -1,4 +1,3 @@
-# iOLAP Academy 2023
 
 # IMDb Data Partitioning
 
