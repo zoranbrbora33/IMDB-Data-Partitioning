@@ -1,0 +1,38 @@
+{
+    "title_ratings": {
+        "uri": "/dataset/title_ratings",
+        "params": {
+            "min_ingestion_dttm": "20230902T060140.409141"
+        }
+    },
+    "title_crew": {
+        "uri": "/dataset/title_crew",
+        "params": {
+            "min_ingestion_dttm": "20230902T060240.433725"
+        }
+    },
+    "name_basics": {
+        "uri": "/dataset/name_basics",
+        "params": {
+            "min_ingestion_dttm": "20230830T063751.598366"
+        }
+    },
+    "title_principals": {
+        "uri": "/dataset/title_principals",
+        "params": {
+            "min_ingestion_dttm": "20230813T070004.885042"
+        }
+    },
+    "title_episode": {
+        "uri": "/dataset/title_episode",
+        "params": {
+            "min_ingestion_dttm": "20230807T065952.796021"
+        }
+    },
+    "title_basics": {
+        "uri": "/dataset/title_basics",
+        "params": {
+            "min_ingestion_dttm": "20230814T065724.125160"
+        }
+    }
+}
